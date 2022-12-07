@@ -6,7 +6,7 @@
 
 <div align='center'>
 
-[![LinkedIn](https://github.com/itarek99/itarek99/blob/main/images/icons/linkedin.png)](https://facebook.com/tarek161803) [![Facebook](https://github.com/itarek99/itarek99/blob/main/images/icons/facebook.png)](https://linkedin.com/in/tarek161803) [![Twitter](https://github.com/itarek99/itarek99/blob/main/images/icons/twitter.png)](https://twitter.com/tarek161803)[![Whatsapp](https://github.com/itarek99/itarek99/blob/main/images/icons/whatsapp.png)](https://twitter.com/tarek161803)
+[![LinkedIn](https://github.com/itarek99/itarek99/blob/main/images/icons/linkedin.png)](https://www.linkedin.com/in/-tarekul-islam/) [![Facebook](https://github.com/itarek99/itarek99/blob/main/images/icons/facebook.png)](https://facebook.com/tarek161803) [![Twitter](https://github.com/itarek99/itarek99/blob/main/images/icons/twitter.png)](https://twitter.com/tarek161803)[![Whatsapp](https://github.com/itarek99/itarek99/blob/main/images/icons/whatsapp.png)](https://wa.me/+8801742797060)
 
 </div>
 
