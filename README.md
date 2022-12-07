@@ -12,9 +12,10 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=itarek99&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<div align='center'>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itarek99&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itarek99&theme=react&hide_border=true)
+</div>
 
 ### ✍️ Random Development Quote
 
