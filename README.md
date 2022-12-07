@@ -2,12 +2,12 @@
 
 ```javascript
 const tarek = {
-  code: ['HTML', 'CSS', 'Javascript'],
+  code: [HTML, CSS, Javascript],
   technologies: {
-    frontEnd: ['React', 'TailwindCss', 'Bootstrap'],
-    backEnd: ['Node', 'Express'],
-    databases: ['MongoBD', 'MySql'],
-    misc: ['Firebase', 'Vercel'],
+    frontEnd: [React, TailwindCss, Bootstrap],
+    backEnd: [Node, Express],
+    databases: [MongoBD, MySql],
+    misc: [Firebase, Vercel],
   },
   currentFocus: 'Building My Portfolio Website',
   funFact: 'There are two ways to write error-free programs; only the third one works!',
