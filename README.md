@@ -4,16 +4,14 @@
 const tarek = {
   code: [HTML, CSS, Javascript],
   technologies: {
-    frontEnd: [React, TailwindCss, Bootstrap],
-    backEnd: [Node, Express],
-    databases: [MongoBD, MySql],
-    misc: [Firebase, Vercel],
+    frontEnd: [React, React Router, TailwindCss, Bootstrap, Material UI,],
+    backEnd: [Node, Express, MongoBD, MySql],
+    misc: [Firebase, Vercel, Figma, Illustrator, Chrome DevTools],
   },
-  currentFocus: 'Building My Portfolio Website',
+  currentFocus: 'Building my portfolio website',
   funFact: 'There are two ways to write error-free programs; only the third one works!',
 };
 ```
-
 
 ## Skills
 
