@@ -21,7 +21,7 @@
 
 ## ✍️ Random Development Quote
 
-<div align='center'>
+<div height='60%' align='center'>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
