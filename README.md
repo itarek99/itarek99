@@ -23,6 +23,6 @@
 
 <div align='center'>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
