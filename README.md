@@ -32,7 +32,9 @@ const tarek = {
 
 <a href="https://www.linkedin.com/in/-tarekul-islam/"><img height='70' src="https://github.com/itarek99/itarek99/blob/main/images/icons/linkedin.png" alt="LinkedIn Button"/></a>
 
-[![LinkedIn](https://github.com/itarek99/itarek99/blob/main/images/icons/linkedin.png)](https://www.linkedin.com/in/-tarekul-islam/) [![Facebook](https://github.com/itarek99/itarek99/blob/main/images/icons/facebook.png)](https://facebook.com/tarek161803) [![Twitter](https://github.com/itarek99/itarek99/blob/main/images/icons/twitter.png)](https://twitter.com/tarek161803)
+<a href="https://facebook.com/tarek161803/"><img height='70' src="https://github.com/itarek99/itarek99/blob/main/images/icons/facebook.png" alt="Facebook Button"/></a>
+
+<a href="https://twitter.com/tarek161803/"><img height='70' src="https://github.com/itarek99/itarek99/blob/main/images/icons/twitter.png" alt="LinkedIn Button"/></a>
 
 </div>
 
