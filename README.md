@@ -4,7 +4,7 @@
 const tarek = {
   code: [HTML, CSS, Javascript],
   technologies: {
-    frontEnd: [React, React Router, TailwindCss, Bootstrap, MUI,],
+    frontEnd: [React, React Router, TailwindCss, Bootstrap, MUI],
     backEnd: [Node, Express, MongoBD, MySql],
     misc: [Firebase, Vercel, Figma, Illustrator, Chrome DevTools],
   },
