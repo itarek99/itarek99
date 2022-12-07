@@ -1,6 +1,8 @@
 ## 📄 About Me
 
-🔭 I’m currently working on My Portfolio.<br>🌱 I’m currently learning Redux, TypeScript<br>
+### 🔭 I’m currently working on My Portfolio.
+
+### 🌱 I’m currently learning Redux, TypeScript.
 
 ## 🧑🏻‍💻 Skills
 
