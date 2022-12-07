@@ -18,11 +18,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itarek99&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
-## ✍️ Random Development Quote
-
-<div height='100%' align='center'>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</div>
