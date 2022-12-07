@@ -30,11 +30,7 @@ const tarek = {
 
 <div align='center'>
 
-<a href="https://www.linkedin.com/in/-tarekul-islam/"><img height='70' src="https://github.com/itarek99/itarek99/blob/main/images/icons/linkedin.png" alt="LinkedIn Button"/></a>
-
-<a href="https://facebook.com/tarek161803/"><img height='70' src="https://github.com/itarek99/itarek99/blob/main/images/icons/facebook.png" alt="Facebook Button"/></a>
-
-<a href="https://twitter.com/tarek161803/"><img height='70' src="https://github.com/itarek99/itarek99/blob/main/images/icons/twitter.png" alt="LinkedIn Button"/></a>
+<a href="https://www.linkedin.com/in/-tarekul-islam/"><img height='70' src="https://github.com/itarek99/itarek99/blob/main/images/icons/linkedin.png" alt="LinkedIn Button"/></a><a href="https://facebook.com/tarek161803/"><img height='70' src="https://github.com/itarek99/itarek99/blob/main/images/icons/facebook.png" alt="Facebook Button"/></a><a href="https://twitter.com/tarek161803/"><img height='70' src="https://github.com/itarek99/itarek99/blob/main/images/icons/twitter.png" alt="LinkedIn Button"/></a>
 
 </div>
 
