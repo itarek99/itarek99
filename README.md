@@ -6,7 +6,7 @@
 
 <div align='center'>
 
-[![Facebook](https://github.com/itarek99/itarek99/blob/main/images/icons/whatsapp.png)](https://facebook.com/tarek161803) [![LinkedIn](https://github.com/itarek99/itarek99/blob/main/images/icons/facebook.png)](https://linkedin.com/in/tarek161803) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tarek161803)
+[![LinkedIn](https://github.com/itarek99/itarek99/blob/main/images/icons/linkedin.png)](https://facebook.com/tarek161803) [![Facebook](https://github.com/itarek99/itarek99/blob/main/images/icons/facebook.png)](https://linkedin.com/in/tarek161803) [![Twitter](https://github.com/itarek99/itarek99/blob/main/images/icons/twitter.png)](https://twitter.com/tarek161803)[![Whatsapp](https://github.com/itarek99/itarek99/blob/main/images/icons/whatsapp.png)](https://twitter.com/tarek161803)
 
 </div>
 
