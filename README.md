@@ -22,7 +22,9 @@ const tarek = {
 <img src="https://github.com/itarek99/itarek99/blob/main/images/skills/html.png" alt="html"/>
 <img src="https://github.com/itarek99/itarek99/blob/main/images/skills/css.png" alt="css"/>
 <img src="https://github.com/itarek99/itarek99/blob/main/images/skills/javascript.png" alt="javascript"/>
-<img src="https://github.com/itarek99/itarek99/blob/main/images/skills/react.png" alt="react"/>
+<img src="https://github.com/itarek99/itarek99/blob/main/images/skills/node.png" alt="node"/>
+<img src="https://github.com/itarek99/itarek99/blob/main/images/skills/tailwind.png" alt="tailwind"/>
+<img src="https://github.com/itarek99/itarek99/blob/main/images/skills/bootstrap.png" alt="bootstrap"/>
 
 </div>
 
