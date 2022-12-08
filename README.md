@@ -21,7 +21,7 @@ const tarek = {
 
 <img height='92' src="https://github.com/itarek99/itarek99/blob/main/images/skills/html.png" alt="html"/>
 <img height='92' src="https://github.com/itarek99/itarek99/blob/main/images/skills/css.png" alt="css"/>
-<img height='92' src="https://github.com/itarek99/itarek99/blob/main/images/skills/javascript.png" alt="javascript"/>
+<img height='92' src="https://github.com/itarek99/itarek99/blob/main/images/skills/javascript2.png" alt="javascript"/>
 <img height='92' src="https://github.com/itarek99/itarek99/blob/main/images/skills/react.png" alt="react"/>
 <img height='92' src="https://github.com/itarek99/itarek99/blob/main/images/skills/node.png" alt="node"/>
 <img height='92' src="https://github.com/itarek99/itarek99/blob/main/images/skills/tailwind.png" alt="tailwind"/>
