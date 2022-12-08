@@ -1,3 +1,5 @@
+<img height='70' src="https://github.com/itarek99/itarek99/blob/main/images/profile.png" alt="Profile Image"/>
+
 ## About Me
 
 ```javascript
