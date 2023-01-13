@@ -10,7 +10,7 @@ const tarek = {
     backEnd: [Node, Express, MongoBD, MySql],
     misc: [Firebase, Vercel, Figma, Illustrator, Chrome DevTools],
   },
-  currentFocus: 'Building my portfolio website',
+  currentFocus: 'Learning Next JS,
   funFact: 'There are two ways to write error-free programs; only the third one works!',
 };
 ```
