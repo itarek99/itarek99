@@ -4,14 +4,25 @@
 
 ```javascript
 const tarek = {
-  code: [HTML, CSS, Javascript],
-  technologies: {
-    frontEnd: [React, React Router, TailwindCss, Bootstrap, MUI],
-    backEnd: [Node, Express, MongoBD, MySql],
-    misc: [Firebase, Vercel, Figma, Illustrator, Chrome DevTools],
+  name: "Tarekul Islam",
+  title: "Full-Stack JavaScript Engineer",
+  expertise: {
+    languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    frontend: ["React", "Next.js", "Tailwind CSS", "MUI", "Bootstrap"],
+    mobile: ["React Native", "Expo"],
+    backend: ["Node.js", "Express.js", "REST API Design"],
+    databases: ["MongoDB", "MySQL"],
+    stateManagement: ["Redux", "Redux Toolkit", "RTK Query"],
   },
-  currentFocus: 'Learning Next JS,
-  funFact: 'There are two ways to write error-free programs; only the third one works!',
+  tools: ["Git", "Firebase", "RevenueCat", "Vercel", "Figma", "Chrome DevTools"],
+  focus: [
+    "Scalable full-stack architecture",
+    "Performance optimization",
+    "Clean, maintainable codebases",
+    "Mobile and web app development",
+  ],
+  philosophy: "Build reliable, scalable, and user-focused products with clean architecture.",
+  funFact: "There are two ways to write error-free programs; only the third one works.",
 };
 ```
 
